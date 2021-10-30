@@ -1,0 +1,15 @@
+
+- Slide 1- talk abt BCOI / wat is it for / thank previous organizing teams /
+-add- problem stmt slide - should be 2nd slide
+-dashes on teams to remove
+-removoe profie header
+-complte family man - sreesail
+
+guidelines - talk abt timing rules
+-downlaod - ravis vedio and embedd into ppt
+-quiz only 2 qstns
+
+
+-feedback on previous yrs ideations - Kibana with 859 slides(ideation to implementation)
+-Timekeeper
+- a slide on winners in this journey
